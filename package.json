@@ -1,0 +1,24 @@
+{
+  "name": "prisma-broken-deletemany",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janpio/prisma-broken-deleteMany.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janpio/prisma-broken-deleteMany/issues"
+  },
+  "homepage": "https://github.com/janpio/prisma-broken-deleteMany#readme",
+  "dependencies": {
+    "@prisma/client": "^4.11.0",
+    "prisma": "^4.11.0"
+  }
+}
